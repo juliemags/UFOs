@@ -14,7 +14,7 @@ Type in your desired filter(s). In this case, we are searching for California (c
 
 # Summary
 ### Advantages
-As a new coder, it was relatively easy to construct an HTML code for thsi site. Ease of use is a huge advantage to this process. The website looks clean and concise, while also including a lot of very vital information. 
+As a new coder, it was relatively easy to construct an HTML code for this site. Ease of use is a huge advantage to this process. The website looks clean and concise, while also including a lot of very vital information. 
 
 ### Drawbacks
 When searching for a condition, you have to match the letters perfectly. I tried to search "CA" for California, and nothing popped up. However, when I searched "ca", there was a large amount of spottings. A new user to the site may be confused or tricked by this issue. Adding a note to only search in lowercase or allowing the code to read any variety of lettercase would fix this. 
