@@ -1,14 +1,15 @@
 # UFOs
 # Overview
 The purpose of this project was to create a site for Dana to showcase her analysis of UFO findings, focused on user's ability and the site's visual appearance. We want to allow users to filter on the large dataset based on a variety of categories, including date, city, state, country, and shape.  This gives the user an easier access to in-depth data rather than be overwhelmed by having to look at and interpret a very large dataset. 
-!(https://github.com/juliemags/UFOs/blob/main/Resources/Site_Photo.PNG)
+![site photo](https://github.com/juliemags/UFOs/blob/main/Resources/Site_Photo.PNG)
 
 # Results
 This project resulted in creating a great website that allows Dana room to report her own analysis and findings, while also allowing the users to dig into the data if they choose. The users can search based on date, city, state, country, and shape. Not only is the site useful, it is also pleasing to the eye, using a dark theme with font that is clear and sticks out. We also used a cool photo from NASA that matches with the theme of her analysis. 
 ### How to Perform Search
-To search our site, navigate down to the search section. The user will see a variety of ![search options](https://github.com/juliemags/UFOs/blob/main/Resources/search_options.PNG)
+To search our site, navigate down to the search section. The user will see a variety of search options. ![search options](https://github.com/juliemags/UFOs/blob/main/Resources/search_options.PNG)
+
 Type in your desired filter(s). In this case, we are searching for California (ca). After pressing "Filter Table", the data table on the right adjusts to your indicated filters and should only show the indicated filter(s).
-!(https://github.com/juliemags/UFOs/blob/main/Resources/search_results.PNG)
+![filter results](https://github.com/juliemags/UFOs/blob/main/Resources/search_results.PNG)
 
 
 # Summary
